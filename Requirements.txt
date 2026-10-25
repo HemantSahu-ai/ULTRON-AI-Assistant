@@ -1,0 +1,15 @@
+groq
+cohere
+python-dotenv
+rich
+requests
+beautifulsoup4
+googlesearch-python
+selenium
+mtranslate
+pygame
+edge-tts
+Pillow
+AppOpener
+pywhatkit
+keyboard
